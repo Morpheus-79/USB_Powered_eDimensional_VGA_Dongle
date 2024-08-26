@@ -20,7 +20,7 @@ It expects the power cable with the centre connection being negative (since i've
 
 ![Polarity](Polarity.png)
 
-You may have to build your own USB power cable:
+That's why you may have to build your own USB power cable:
 
 ![DIY USB power cable](USB_power.jpg)
 
