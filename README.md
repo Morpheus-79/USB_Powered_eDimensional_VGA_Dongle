@@ -44,7 +44,7 @@ It fits snuggly between the ICs on the right side:
 
 ![1.0 installation](1.0/103466C.jpg)
 
-... and has to be mounted with some wires soldered into the vias of the main PCB. The red wire for the internal 5V power delivery has to be desoldered from the main PCB and soldered to the '5V VGA IN' pin of the addon PCB. Testpoint 4 can be rerouted to the addon PCB by soldering 'TP4' of the main PCB to the bottom soldering pad of the addon board.
+... and has to be mounted with some wires soldered into the vias of the main PCB. The red wire for the internal 5V power delivery has to be desoldered from the main PCB and soldered to the '5V VGA IN' pin of the addon PCB. Testpoint 4 can be rerouted to the addon PCB by soldering 'TP4' of the main PCB to the bottom soldering pad of the addon board (but that's optional). Soldering 'TP13' and 'TP14' from the addon PCB to their counterparts on the main PCB is NOT optional, since those are the main lines for power delivery.
 
 For revision 103466C of the main PCB you have to use rev. 1.1 of the addon PCB:
 
