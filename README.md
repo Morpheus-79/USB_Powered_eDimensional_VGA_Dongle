@@ -61,6 +61,6 @@ The barrel jack connector is a very common one. You can get it from different ma
 
 Here you can see the VGA dongle in action... powered by the USB port of a GEEKOM AS 6 Mini PC, driving a CRT connected to the output of the AMD Ryzen 9 6900HX APU and controlling 3D-Vision glasses over a (via 3-Pin-VESA connector) plugged in [DIY 3D-Vision emitter](https://github.com/Morpheus-79/3DVisionAVRMod):
 
-[![VGA dongle & DIY 3D-Vision emitter](https://img.youtube.com/vi/n6rF7CWhr78/0.jpg)](https://www.youtube.com/watch?v=n6rF7CWhr78)
+[![VGA dongle & DIY 3D-Vision emitter](https://img.youtube.com/vi/n6rF7CWhr78/maxresdefault.jpg)](https://www.youtube.com/watch?v=n6rF7CWhr78)
 
 It's a strange and kind of anachronistic combination... but it works amazingly nonetheless!
