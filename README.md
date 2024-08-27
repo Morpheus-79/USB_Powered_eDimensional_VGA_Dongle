@@ -26,7 +26,7 @@ That's why you may have to build your own USB power cable:
 
 ... since USB power cables with a negative centre polarity are hard to find.
 
-An external power supply makes sense for everyone who's into this retro (3D) hardware. In the past this dongles were powered via 5V line from a VESA compliant VGA out connector of a graphics card. Nowadays VGA connectors are mostly gone and modern HDMI-to-VGA-converters do not deliver 5V to their VGA out. So if you want to use this kind of oldschool 3D hardware today on modern hardware (maybe in conjunction with a [DIY 3D-Vision emitter with 3D-Vision glasses](https://github.com/Morpheus-79/3DVisionAVRMod)), you have to power the dongle differently.
+An external power supply makes sense for everyone who's into this (3D) retro hardware. In the past this dongles were powered via 5V line from a VESA compliant VGA out connector of a graphics card. Nowadays VGA connectors are mostly gone and modern HDMI-to-VGA-converters do not deliver 5V to their VGA out. So if you want to use this kind of oldschool 3D hardware today on modern computers (maybe in conjunction with a [DIY 3D-Vision emitter with 3D-Vision glasses](https://github.com/Morpheus-79/3DVisionAVRMod)), you have to power the dongle differently.
 
 The funny thing is:
 The first eDimensional dongles came with a cable solution for external power delivery, since earlier graphics cards sometimes did not have a VESA compliant VGA out connector and therefore the 5V pin wasn't connected to anything. So they gave the user an additional pass-through cable, which got its 5V from the PS2 connector:
