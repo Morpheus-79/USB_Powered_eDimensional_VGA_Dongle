@@ -15,7 +15,7 @@ This PCB adds a barrel jack to the dongle, which can be used to power it externa
 
 ![VGA dongle front view](Dongle_front.jpg)
 
-***Attention:***
+***ATTENTION:***
 It expects the power cable with the centre connection being negative (because i've wanted the internal power mechanically cut while an external power supply is connected):
 
 ![Polarity](Polarity.png)
