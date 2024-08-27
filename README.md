@@ -58,3 +58,9 @@ The installation is almost the same as for revision 103466C. But 'U4' from the m
 The addon PCB uses an IRLML6402PBF P-Channel MOSFET as a simple polarity protection. It's an easy and cheap solution with a much lower voltage drop than using a diode.
 
 The barrel jack connector is a very common one. You can get it from different manufacturers on eBay and from every large electronic components supplier (for example [as part no. C22435680 on lcsc.com](http://www.lcsc.com/product-detail/span-style-background-color-ff0-DC-span-Power-Connectors_HanElectricity-DC-050-20_C22435680.html)).
+
+Here you can see the VGA dongle in action... powered by the USB port of a GEEKOM AS 6 Mini PC, driving a CRT connected to the output of the AMD Ryzen 9 6900HX APU and controlling 3D-Vision glasses over a (via 3-Pin-VESA connector) plugged in [DIY 3D-Vision emitter](https://github.com/Morpheus-79/3DVisionAVRMod):
+
+[![VGA dongle & DIY 3D-Vision emitter](https://img.youtube.com/vi/n6rF7CWhr78/0.jpg)](https://www.youtube.com/watch?v=n6rF7CWhr78)
+
+It's a strange and kind of anachronistic combination... but it works amazingly nonetheless!
