@@ -36,7 +36,7 @@ The first eDimensional dongles came with a cable solution for external power del
 But since PS2 connectors are gone, too... and since those cables are hard to find: i thought about this more elegant and integrated solution.
 
 ## Installation
-Multiple board revisions of the PCB inside of the dongle exist. The oldest one seems to be the 103466C. For these ones i've created rev. 1.0 of the addon PCB:
+Multiple board revisions of the PCB inside of the dongle exist. The oldest one seems to be the 103466C. For these i've created rev. 1.0 of the addon PCB:
 
 ![1.0](1.0/103466C.png)
 
